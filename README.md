@@ -1,18 +1,18 @@
 # Dashboard
 
 
-#Koder som vi har använt:
-#Scroll
+Koder som vi har använt:
+Scroll
 https://github.com/peachananr/onepage-scroll
-#Kalender
+Kalender
 http://unlockcampus.org/code/tutoring/duotone-calendar
-#Digital
+Digital
 https://codepen.io/afarrar/pen/JRaEjP
-#Slide-show
+Slide-show
 https://codepen.io/Danil89/pen/yoPBMP
-#Progress bar
+Progress bar
 https://www.youtube.com/watch?v=DKaOpZ_Nlrk
 
 
-#Språk som vi har använt
-#Html, Css, javascript, jQuery
+Språk som vi har använt
+Html, Css, javascript, jQuery
